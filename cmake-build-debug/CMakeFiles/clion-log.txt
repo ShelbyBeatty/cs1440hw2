@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Shelby/Documents/CS1440/HW2/cs1440hw2/AnalystComparer
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/Shelby/Documents/CS1440/HW2/cs1440hw2/AnalystComparer/cmake-build-debug
